@@ -1,0 +1,4 @@
+The java.io package contains nearly every class you might ever need to perform input and output (I/O) in Java. All these streams represent an input source and an output destination. The stream in the java.io package supports many data such as primitives, object, localized characters, etc.
+
+Stream
+A stream can be defined as a sequence of data. There are two kinds of Streams −
